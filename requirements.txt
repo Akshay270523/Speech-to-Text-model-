@@ -1,0 +1,8 @@
+Flask
+flask-cors
+sarvamai
+requests
+sounddevice
+numpy
+scipy
+noisereduce
