@@ -1,4 +1,4 @@
-# SIH Multilingual Continuous Speech-to-Text
+# Multilingual Continuous Speech-to-Text
 
 This project is the Speech-to-Text (STT) module developed for the SIH project.
 
